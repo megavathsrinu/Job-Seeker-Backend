@@ -1,0 +1,29 @@
+# Node.js and Express specific ignore patterns
+node_modules/
+dist/
+.env
+
+# Log files
+logs/
+*.log
+
+# IDE and editor specific ignore patterns
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*.swo
+
+# Other specific ignore patterns
+*.bak
+*.backup
+*.zip
+*.gz
+*.tar
+*.tar.gz
